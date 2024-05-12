@@ -53,17 +53,17 @@ export const players = [{
     role: 'Allrounder',
     country: 'India',
   },{
-    name: 'Guddu',
-    price:"₹40",
+    name: 'Guddu Rangeela',
+    price:"₹35",
     availability:"Full JPL Season",
-    speciality:"Anchoring, gun fielder",
+    speciality:"Anchor, gun fielder",
     image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
     country: 'India',
   },{
     name: 'Ankit Jha',
-    price:"₹40",
+    price:"₹35",
     availability:"Full JPL Season",
     speciality:"Opening batsman",
     image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
@@ -72,7 +72,7 @@ export const players = [{
     country: 'India',
   },{
     name: 'Ayush Kumar',
-    price:"₹40",
+    price:"₹30",
     availability:"Full JPL Season",
     speciality:"Finisher, gun fielder",
     image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
@@ -81,7 +81,7 @@ export const players = [{
     country: 'India',
   },{
     name: 'Ankit Bhajju',
-    price:"₹40",
+    price:"₹30",
     availability:"Full JPL Season",
     speciality:"Finisher, Wicket keeper",
     image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
@@ -90,7 +90,7 @@ export const players = [{
     country: 'India',
   },{
     name: 'Nikhil Kashyap',
-    price:"₹40",
+    price:"₹30",
     availability:"Full JPL Season",
     speciality:"Swing Specialist",
     image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
@@ -99,7 +99,7 @@ export const players = [{
     country: 'India',
   },{
     name: 'Bunty Bawa',
-    price:"₹40",
+    price:"₹20",
     availability:"Full JPL Season",
     speciality:"None",
     image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
@@ -108,7 +108,7 @@ export const players = [{
     country: 'India',
   },{
     name: 'Bicky Jha',
-    price:"₹40",
+    price:"₹50",
     availability:"Post 2nd week of JPL",
     speciality:"Mystery Spinner, Anchor",
     image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
@@ -126,7 +126,7 @@ export const players = [{
     country: 'India',
   },{
     name: 'Saurabh Jha',
-    price:"₹40",
+    price:"₹50",
     availability:"Tentative; subject to market risk",
     speciality:"Opening Batsman",
     image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',

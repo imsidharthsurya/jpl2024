@@ -10,12 +10,13 @@ const CricketPlayerCard = ({ player }) => {
         <p className="text-base"><strong>Speciality: </strong> {player.speciality}</p>
       </div>
       <div className="px-6 pt-4 pb-2">
+      <span className="inline-block bg-gray-100 rounded-full px-3 py-1 text-sm font-semibold text-red-400 mr-2">
+          {player.price}
+        </span>
         <span className="inline-block bg-gray-100 rounded-full px-3 py-1 text-sm font-semibold text-red-400 mr-2">
           {player.role}
         </span>
-        <span className="inline-block bg-gray-100 rounded-full px-3 py-1 text-sm font-semibold text-red-400 mr-2">
-          {player.country}
-        </span>
+        
       </div>
     </div>
   );
