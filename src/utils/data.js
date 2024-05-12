@@ -1,3 +1,17 @@
+import sidpic from "../img/sid.jpg"
+import sidpic1 from "../img/sid1.jpg"
+import santoshpic from "../img/santosh.jpg"
+import sanketpic from "../img/sanket.jpeg"
+import nikhilpic from "../img/nikhil.jpg"
+import ayushpic from "../img/ayush.jpg"
+import buntypic from "../img/bunty.jpg"
+import subhampic from "../img/subham.png"
+import bikkypic from "../img/bikky.png"
+import kundanpic from "../img/kundan.png"
+import bhajjupic from "../img/ankit.png"
+import ravipic from "../img/ravi.png"
+import saurabhpic from "../img/saurabh.jpg"
+import guddupic from "../img/guddu.png"
 export const players = [{
     name: 'Mannu Jha',
     price:"Retained",
@@ -12,7 +26,7 @@ export const players = [{
     price:"Retained",
     availability:"Full JPL Season",
     speciality:"Finisher, New bowl specialist",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: subhampic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
     country: 'India',
@@ -21,7 +35,7 @@ export const players = [{
     price:"Retained",
     availability:"Full JPL Season",
     speciality:"Death overs specialist, gun fielder",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: sidpic1,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
     country: 'India',
@@ -30,7 +44,7 @@ export const players = [{
     price:"Retained",
     availability:"Full JPL Season",
     speciality:"Wicket keeper batsman, gun fielder",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: kundanpic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
     country: 'India',
@@ -39,7 +53,7 @@ export const players = [{
     price:"₹40",
     availability:"Full JPL Season",
     speciality:"Left arm Swing king, gun fielder",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: ravipic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
     country: 'India',
@@ -48,7 +62,7 @@ export const players = [{
     price:"₹40",
     availability:"Full JPL Season",
     speciality:"Mystery Spinner, defensive batsman",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: santoshpic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
     country: 'India',
@@ -56,8 +70,8 @@ export const players = [{
     name: 'Guddu Rangeela',
     price:"₹35",
     availability:"Full JPL Season",
-    speciality:"Anchor, gun fielder",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    speciality:"Anchoring, gun fielder",
+    image: guddupic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
     country: 'India',
@@ -75,7 +89,7 @@ export const players = [{
     price:"₹30",
     availability:"Full JPL Season",
     speciality:"Finisher, gun fielder",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: ayushpic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Batsman',
     country: 'India',
@@ -84,7 +98,7 @@ export const players = [{
     price:"₹30",
     availability:"Full JPL Season",
     speciality:"Finisher, Wicket keeper",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: bhajjupic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Batsman',
     country: 'India',
@@ -93,7 +107,7 @@ export const players = [{
     price:"₹30",
     availability:"Full JPL Season",
     speciality:"Swing Specialist",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: nikhilpic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Bowler',
     country: 'India',
@@ -102,7 +116,7 @@ export const players = [{
     price:"₹20",
     availability:"Full JPL Season",
     speciality:"None",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: buntypic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Batsman',
     country: 'India',
@@ -110,8 +124,8 @@ export const players = [{
     name: 'Bicky Jha',
     price:"₹50",
     availability:"Post 2nd week of JPL",
-    speciality:"Mystery Spinner, Anchor",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    speciality:"Mystery Spinner, Anchoring",
+    image: bikkypic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
     country: 'India',
@@ -119,8 +133,8 @@ export const players = [{
     name: 'Sanket Sanath',
     price:"₹40",
     availability:"Tentative; subject to market risk",
-    speciality:"None",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    speciality:"Righ arm quick bowler",
+    image: sanketpic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Bowler',
     country: 'India',
@@ -129,7 +143,7 @@ export const players = [{
     price:"₹50",
     availability:"Tentative; subject to market risk",
     speciality:"Opening Batsman",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: saurabhpic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
     country: 'India',
