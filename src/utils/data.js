@@ -1,4 +1,4 @@
-import sidpic from "../img/sid.jpg"
+// import sidpic from "../img/sid.jpg"
 import sidpic1 from "../img/sid1.jpg"
 import santoshpic from "../img/santosh.jpg"
 import sanketpic from "../img/sanket.jpeg"
