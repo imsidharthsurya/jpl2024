@@ -3,6 +3,7 @@ import Header from './components/Header';
 import Comingsoon from './components/Comingsoon';
 import TeamList from './components/TeamList';
 import PlayerList from './components/PlayerList';
+import Footer from './components/Footer';
 const App = () => {
   
 
@@ -12,6 +13,7 @@ const App = () => {
       <Comingsoon/>
       <TeamList/>
       <PlayerList/>
+      <Footer/>
     </div>
   );
 };
