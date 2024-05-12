@@ -47,7 +47,7 @@ export const players = [{
     name: 'Santosh Kumar (20)',
     price:"₹40",
     availability:"Full JPL Season",
-    speciality:"Mystery Spinner",
+    speciality:"Mystery Spinner, defensive batsman",
     image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',

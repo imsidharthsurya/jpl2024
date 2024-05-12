@@ -3,7 +3,7 @@ const Header=()=>{
 
     return (
         <div className="mt-4">
-            <img alt="jpl-logo"  className="object-cover h-16 lg:h-28 lg:mx-[25%]" src={jpllogo}/>
+            <img alt="jpl-logo"  className="object-cover h-18 lg:h-28 lg:mx-[25%]" src={jpllogo}/>
         </div>
     )
 }
