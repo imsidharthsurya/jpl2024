@@ -1,5 +1,5 @@
 // import sidpic from "../img/sid.jpg"
-import sidpic1 from "../img/sid1.jpg"
+// import sidpic1 from "../img/sid1.jpg"
 import santoshpic from "../img/santosh.jpg"
 import sanketpic from "../img/sanket.jpeg"
 import nikhilpic from "../img/nikhil.jpg"
@@ -13,12 +13,14 @@ import ravipic from "../img/ravi.png"
 import saurabhpic from "../img/saurabh.jpg"
 import guddupic from "../img/guddu.png"
 import lalkipic from "../img/lalki.jpeg"
+import mannupic from "../img/mannu.jpeg"
+import sidpic3 from "../img/ig.jpg"
 export const players = [{
     name: 'Mannu Jha',
     price:"Retained",
     availability:"Full JPL Season",
     speciality:"Aggressive batsman",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: mannupic,
     description: 'Captain + ',
     role: 'Allrounder',
     country: 'India',
@@ -36,7 +38,7 @@ export const players = [{
     price:"Retained",
     availability:"Full JPL Season",
     speciality:"Death overs specialist, gun fielder",
-    image: sidpic1,
+    image: sidpic3,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
     country: 'India',
