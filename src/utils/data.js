@@ -12,11 +12,12 @@ import bhajjupic from "../img/ankit.png"
 import ravipic from "../img/ravi.png"
 import saurabhpic from "../img/saurabh.jpg"
 import guddupic from "../img/guddu.png"
+import lalkipic from "../img/lalki.jpeg"
 export const players = [{
     name: 'Mannu Jha',
     price:"Retained",
     availability:"Full JPL Season",
-    speciality:"Aggressive batsman, New bowl specialist",
+    speciality:"Aggressive batsman",
     image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
     description: 'Captain + ',
     role: 'Allrounder',
@@ -52,7 +53,7 @@ export const players = [{
     name: 'Ravi Jha (20)',
     price:"₹40",
     availability:"Full JPL Season",
-    speciality:"Left arm Swing king, gun fielder",
+    speciality:"Left arm Swing bowler, gun fielder",
     image: ravipic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
@@ -80,7 +81,7 @@ export const players = [{
     price:"₹35",
     availability:"Full JPL Season",
     speciality:"Opening batsman",
-    image: 'https://i.pinimg.com/236x/d8/20/95/d8209588924377a85965e305401e924d.jpg',
+    image: lalkipic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Batsman',
     country: 'India',
@@ -104,7 +105,7 @@ export const players = [{
     country: 'India',
   },{
     name: 'Nikhil Kashyap',
-    price:"₹30",
+    price:"₹40",
     availability:"Full JPL Season",
     speciality:"Swing Specialist",
     image: nikhilpic,

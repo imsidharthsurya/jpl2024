@@ -1,5 +1,5 @@
 export const acordionData=[{
-    teamName:"Pauwa Eleven 🍾",
+    teamName:"Babaji Bulldozer's 🚜",
     owner:"Babaji",
     playerOne:"Mannu Jha",
     playerTwo:"Kundan Mishra"
