@@ -15,6 +15,7 @@ import guddupic from "../img/guddu.png"
 import lalkipic from "../img/lalki.jpeg"
 import mannupic from "../img/mannu.jpeg"
 import sidpic3 from "../img/ig.jpg"
+import babua from "../img/Babua.jpeg"
 export const players = [{
     name: 'Mannu Jha',
     price:"Retained",
@@ -149,5 +150,14 @@ export const players = [{
     image: saurabhpic,
     description: 'Captain + Aggressive batsman + new bowl specialist',
     role: 'Allrounder',
+    country: 'India',
+  },{
+    name: 'Satyam Jha',
+    price:"₹30",
+    availability:"Half JPL Season",
+    speciality:"Fast Bowler",
+    image: babua,
+    description: 'Captain + Aggressive batsman + new bowl specialist',
+    role: 'Bowler',
     country: 'India',
   }];
