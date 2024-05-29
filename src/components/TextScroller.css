@@ -1,0 +1,11 @@
+.text-scroller-container {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  
+  .text-scroller-content {
+    display: inline-block;
+    white-space: nowrap;
+    will-change: transform;
+  }
